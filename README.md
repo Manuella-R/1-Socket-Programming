@@ -94,7 +94,8 @@ Both terminals will show:
 ```
 Connection Terminated
 ```
-
+---
+https://github.com/user-attachments/assets/9ad9e892-c6a1-4e24-87c8-0b714d9e5068
 ---
 
 ## 📝 Explanation
